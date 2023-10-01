@@ -1,0 +1,13 @@
+name: Bounty
+main: Bounty\Main
+version: 1.0
+load: POSTWORLD
+api: [2.0.0]
+author: _SyReXx
+commands:
+ bounty:
+  description: Know More About The Plugin
+  usage: "/bounty"
+ topbounty:
+   description: Top Bounty That Was Received By A Player
+   usage: "/topbounty"
